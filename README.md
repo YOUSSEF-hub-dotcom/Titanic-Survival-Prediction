@@ -15,3 +15,5 @@ I performed data cleaning, feature engineering (like extracting Titles from name
 - Accuracy: ~78%
 - The model shows strong precision and recall balance.
 - Titles and passenger class were strong indicators of survival.
+
+Linked in (https://www.linkedin.com/in/youssef-mahmoud-63b243361?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOvrHZSnxRf2BYIFG5LE8lg%3D%3D)
